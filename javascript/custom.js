@@ -22,8 +22,8 @@ var lng = "";
 // console.log("the date is", currentDate);
 
 // foursquare API keys
-var client_id = "PIJMX4JSYGX0LTGVJZGWQ13AOZBUJ4TDD3QJ32QR2CN1OMDN";
-var client_secret = "U0BF5HKPA54ZB4KPTDIPAZLCV3X4435YPVCBUZAZEWTKVL42";
+var client_id = "XMBDUXOCFECHCUMA3NE5H5VSSUTV1RVTTLOMRV0ICTNUT1YA";
+var client_secret = "N1US1GUBLCLHGSYIY41OK5LVDVLKOBVQ3NMJUX2ZH0KDHHTZ";
 //End FireBase and inital Vars
 
 
